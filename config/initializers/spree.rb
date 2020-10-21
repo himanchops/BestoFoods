@@ -29,3 +29,12 @@ end
 # Spree::Api::Dependencies.storefront_cart_serializer = 'MyRailsApp::CartSerializer'
 
 Spree.user_class = "Spree::User"
+
+
+Spree.config do |config|
+  config.logo = 'Besto_Logo.png'
+end
+
+Spree.config do |config|
+  config.admin_interface_logo = 'Besto_Logo.png'
+end
