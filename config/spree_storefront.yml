@@ -2,20 +2,22 @@ default:
   navigation:
     - title: Breakfast & Dairy
       subtitle: Categories
-      url: /t/women
+      url: /t/categories/breakfast-and-dairy
       items:
-        - :title: Skirts
-          :url: /t/women/skirts
-        - :title: Dresses
-          :url: /t/women/dresses
-        - :title: Shirts and Blouses
-          :url: /t/women/shirts-and-blouses
-        - :title: Sweaters
-          :url: /t/women/sweaters
-        - :title: Tops and T-shirts
-          :url: /t/women/tops-and-t-shirts
-        - :title: Jackets and Coats
-          :url: /t/women/jackets-and-coats
+        - :title: Milk & Milk Products
+          :url: /t/categories/breakfast-and-dairy/milk-and-milk-products
+        - :title: Butter & Cheese
+          :url: /t/categories/breakfast-and-dairy/butter-and-cheese
+        - :title: Paneer & Curds
+          :url: /t/categories/breakfast-and-dairy/paneer-and-curds
+        - :title: Bread & Jams
+          :url: /t/categories/breakfast-and-dairy/bread-and-jams
+        - :title: Tea & Coffee
+          :url: /t/categories/breakfast-and-dairy/tea-and-coffee
+        - :title: Bakery Products
+          :url: /t/categories/breakfast-and-dairy/bakery-products
+        - :title: HealtKart
+          :url: /t/categories/breakfast-and-dairy/healthkart
       promo_banners:
         - subtitle: New collection
           title: Summer 2019
@@ -27,16 +29,14 @@ default:
           image: 'meganav/promo_banner_right-first-category.jpg'
     - title: Icecream
       subtitle: Categories
-      url: /t/men
+      url: /t/categories/icecream
       items:
-        - :title: Shirts
-          :url: /t/men/shirts
-        - :title: T-shirts
-          :url: /t/men/t-shirts
-        - :title: Sweaters
-          :url: /t/men/sweaters
-        - :title: Jackets and Coats
-          :url: /t/men/jackets-and-coats
+        - :title: Icecream packs
+          :url: /t/categories/icecream/ice-cream-packs
+        - :title: Novelties
+          :url: /t/categories/icecream/novelties
+        - :title: cakes
+          :url: /t/categories/icecream/cakes
       promo_banners:
         - subtitle: New collection
           title: Summer 2019
@@ -48,14 +48,23 @@ default:
           image: 'meganav/promo_banner_right-second-category.jpg'
     - title: Packaged Foods
       subtitle: Categories
-      url: /t/sportswear
+      url: /t/categories/packaged-foods
       items:
-        - :title: Tops
-          :url: /t/sportswear/tops
-        - :title: Sweatshirts
-          :url: /t/sportswear/sweatshirts
-        - :title: Pants
-          :url: /t/sportswear/pants
+        - :title: Biscuits, Chocolates & Snacks
+          :url: /t/categories/packaged-foods/biscuits-chocolates-and-snacks
+        - :title: Noodles & Soups
+          :url: /t/categories/packaged-foods/noodles-and-soups
+        - :title: Sauces & Spreads
+          :url: /t/categories/packaged-foods/sauces-and-spreads
+        - :title: Baking & Dessert Items
+          :url: /t/categories/packaged-foods/baking-and-dessert-items
+        - :title: Dry Fruits & Nuts
+          :url: /t/categories/packaged-foods/dry-fruits-and-nuts
+        - :title: RTE & Frozen foods
+          :url: /t/categories/packaged-foods/rte-and-frozen
+        - :title: Baking & Dessert Items
+          :url: /t/categories/packaged-foods/baking-and-dessert-items
+
       promo_banners:
         - subtitle: New collection
           title: Summer 2019
@@ -65,3 +74,18 @@ default:
           title: Get up to 30% off
           url: /t/special-offers/30-off
           image: 'meganav/promo_banner_right-third-category.jpg'
+
+    - title: Beverages
+      subtitle: Categories
+      url: /t/categories/beverages
+      items:
+        - :title: Cold Drinks
+          :url: /t/categories/beverages/cold-drinks
+        - :title: Tea & Coffee
+          :url: /t/categories/beverages/tea-and-coffee
+        - :title: Juices & Drinks
+          :url: /t/categories/beverages/juices-and-drinks
+        - :title: Health & Enery Drinks
+          :url: /t/categories/beverages/health-and-energy-drinks
+        - :title: Water & Soda
+          :url: /t/categories/beverages/water-and-soda
