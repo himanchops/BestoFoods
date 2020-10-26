@@ -1,6 +1,6 @@
 Dairy
 
-Butter
+Butter (DONE)
 	AMUL Butter
 		Pasturised butter
 			100gm 48
@@ -52,7 +52,7 @@ Cheese
 			150gm 169
 			1kg 740
 
-Paneer & Curds
+Paneer & Curds (DONE)
 	Paneer
 		Mother Dairy
 			200gm 85
@@ -62,9 +62,10 @@ Paneer & Curds
 			200gm
 	Yogurts
 		Mother Dairy Cups
-			200gm, 400gm, 85gm
+			200gm 30, 400gm 60, 85gm 10
 		Mother Dairy Pouches (Classic dahi)
-			1kg, 400gm
+			1kg 65, 400gm 30
+
 
 Milk & Milk Products
 	Milk
@@ -88,6 +89,7 @@ Milk & Milk Products
 		250ml, 1l
 	Amul Whipping Cream
 		250ml, 1l
+	Amul Milk Powder
 		200gm, 500gm
 	Chitale Milk Powder
 		100gm
@@ -100,10 +102,10 @@ Milk & Milk Products
 		200ml
 	Amul Kool Cafe
 		200ml
-	Amul Milk Shake (Chocolate)
-		180ml
-	Hershey's Milk Shake (Chocolate)
-	Sofit Soya Milk (Chocolate)
+			Amul Milk Shake (Chocolate)
+				180ml
+			Hershey's Milk Shake (Chocolate)
+			Sofit Soya Milk (Chocolate)
 	Amul Shrikhand
 		Ilaichi
 			200gm, 500gm
@@ -120,14 +122,15 @@ Milk & Milk Products
 			250gm 500gm
 		Amba
 			250gm 500gm
-		Ilaichi
+		Elaichi
 			250gm 500gm
 
 	Amul Khoa
 		200gm
 
 	Dlicia Dairy Free Whip Topping
-	Amulya Dairy Whitener
+		1kg
+
 	Cream Bell
 		Coffee
 		Coco
@@ -136,11 +139,50 @@ HealthKart
 	Amul Pro Whey Malt Chocolate
 		500gm
 
-
-Water & Soda
+Water & Soda  (DONE)
 	Duke's
 		750ml
-	Aquarise
-		1l
 	Oxycool
 		1l
+
+ICecream 
+	QualityWalls
+		chocolate brownie
+		double chocolate
+		choco vanilla
+		butterschotch
+		oreo cone
+
+
+		magnum
+			chocolate truffle
+
+
+	Amul 
+		Cups
+			vanilla 10
+			mango	15
+		cookies & cream cone
+
+	Havmor
+		Sugar Free malai kulfi
+		Family Packs
+			American Mud Pie
+			Black forest
+			American Nuts
+			Kesar Pista
+			Fruit Punch
+			Lonavali
+			Choco chips
+			Alphonso Mango
+
+		Tubs
+			Mocho Brownie
+			Nutty Beligium
+			Chocolate Brownie
+
+			Vanilla Sugar Free
+			Cranberry
+			ANjir
+			Kesar pIsta
+			
