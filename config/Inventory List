@@ -13,8 +13,8 @@ Butter (DONE)
 			100gm 49
 		Delicious
 			500gm 73
-	Chitale Cooking Butter Unsalted
-		500gm
+							Chitale Cooking Butter Unsalted
+								500gm
 Cheese
 	Amul Cheese
 		Block
@@ -35,6 +35,9 @@ Cheese
 			200gm
 		Creamy
 			200gm
+		85
+	Amul Cheese Sauce
+		Green Chutney, Pizza, Mexican Salsa 75
 	Amul Mozerrella
 		Block
 			200gm 100
@@ -69,9 +72,9 @@ Paneer & Curds (DONE)
 
 Milk & Milk Products
 	Milk
-		Chitale
-			Cow milk, Buffallo milk
-				500ml
+									Chitale
+										Cow milk, Buffallo milk
+											500ml
 		Amul Gold
 			250ml, 1l
 		Amul Taza
@@ -102,10 +105,8 @@ Milk & Milk Products
 		200ml
 	Amul Kool Cafe
 		200ml
-			Amul Milk Shake (Chocolate)
-				180ml
-			Hershey's Milk Shake (Chocolate)
-			Sofit Soya Milk (Chocolate)
+	Amul Milk Shake (Chocolate)
+		180ml
 	Amul Shrikhand
 		Ilaichi
 			200gm, 500gm
@@ -147,42 +148,115 @@ Water & Soda  (DONE)
 
 ICecream 
 	QualityWalls
-		chocolate brownie
+		choco brownie
 		double chocolate
 		choco vanilla
 		butterscotch
 		oreo cone
 
-
 		magnum
 			chocolate truffle
-
 
 	Amul 
 		Cups
 			vanilla 10
 			mango	15
-		cookies & cream cone 40
-
+		cookies & cream cone 30
+		Frostik 30
 	Havmor
 		Sugar Free malai kulfi
 		Family Packs
-			American Mud Pie 240
-			Black forest	240
-			American Nuts	240
-			Kesar Pista 	255
-			Fruit Punch		255
-			Lonavali		255
-			Choco chips		210
-			Alphonso mango 220
+			American Mud Pie
+			Black forest
+			American Nuts
+			Kesar Pista
+			Fruit Punch
+			Lonavali50
+			Choco chips
+			Alphonso mango
 
 		Tubs
-			Mocho brownie 	240
-			Nutty Beligium	300
-			Chocolate Brownie 	200
+			Mocho brownie
+			Nutty Beligium
+			Chocolate Brownie
 
-			Vanilla Sugar Free 500gm 395
-			Cranberry 395
-			ANjir	395
-			Kesar pIsta 395
+			Vanilla Sugar Free
+			Cranberry
+			ANjir
+			Kesar pIsta
 			
+		Dark Chocolate cone 40
+										Chocolate Brownie 40
+		Crunchy Chocobar 20
+		Cassata 50
+		Zulu Bar 40
+		Matakkulfi 50
+										Sugar free malai 30
+		Sandwich 30
+		Cookies sandwich 50
+
+
+
+Beverages
+	Maaza 40 600ml
+	Mt Dew 40
+	7 Up 40
+	Sprite 20 250ml 40 600ml 65 1.25l
+	Thumps up 20 40 65 95
+	Mirinda 35
+	Frooti 10
+	appy fizz 10 33
+	coolberg 69
+		malt cranberry ginger mint strawberry peach assorted
+	Tropicana
+		Guava 20 100
+		Mixed Fruit 20
+		APple 20
+		Pomegranate 20 110
+		Cranberry 110
+		Pineapple 100
+		100% orange 135
+
+	sofit soya milk mango 130 1L
+	Hershey's Milk Shake (Chocolate) 200ml 35
+	Sofit Soya Milk (Chocolate) 35
+	Storia coconut pomegranate 180ml 25
+												socool jeera 350ml 30
+	red bull
+	schweppers
+
+
+Tea & Coffee
+	Davidoff Espresso 550 Fine Aroma 550 Rich Aroma
+	ID Filter COfee 5 Pack 20ml 60 150ml 80
+	Red Label 260 500g
+	Lipton Green Tea Lemon Zest 60
+	Taj Mahal 25 55
+	Girnar Cardamom Chai, Lemongrass Chai, Masala Chai 140
+	Bru Gold 73 25g, 145 50g, 275 100g
+	Nescafe GOld Original 475 100g
+	Cadbury Hot Chocolate Milk 200g 165
+
+Sauces & Spreads
+	Nutella
+		350gm 380
+		750gm 769
+	Hershey's Spread Cocoa 160 150g
+	Funfoods Chocolate Spread Fudge 159
+	Fun Foods Peanut Butter Crunchy 400gm 169
+	Hersheys Syrup Chocolate 90 200g 200 623g
+					Caramel 220 623g
+					Strawberry 90
+	Veeba Peanut butter 340gm 154
+	Veeba Garlic Mayonaise, tandoori Mayonnaise, eggless mayonnaise, burger mayonnaise, pizza-on-a-slice sandwich spread, carrot & cucumber sandwich spread, thousand island sandwich spread, white pasta dressing, pasta & pizza sauce
+	Veeba Hot Sweet tomoato Chilli Sauce, Thousand Island Dressing, Barbeque Sacue, CHocolate fudge Topping, Veeba garlic chilli spread & dip, salsa
+	Funfoods Veg Mayonnaise Original/Garlic, Funfoods Pizza Topping, Funfoods Pasta & pizza
+
+
+
+
+Sweets
+	AMul Kesar Peda, Malai Peda, Milk Cake, Mohanthal, 
+	Amul Butter Nankhatai Elaichi, Cashew
+	Chitale Mango Burfi
+	Haldiram Rasgula Tin
